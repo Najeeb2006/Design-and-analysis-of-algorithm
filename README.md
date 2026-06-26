@@ -1,4 +1,4 @@
-# R Charting Cheat-Sheet (DHV Lab Quick Reference)
+# (DHV Lab Quick Reference)
 
 A universal cheat-sheet — one minimal template per chart type. Replace `data$ColumnName` with whatever your question gives you. Almost every question in a DHV lab record maps to one of these.
 
